@@ -1,16 +1,29 @@
 # nodemailer
 
-npm
+## Installation
 
-- npm install
+```sh
 
-yarn
+# Clone the repo
+$ git clone https://github.com/AkhilAnithaGregory/nodemailer.git
 
-- yarn install
+# Go to the repository
+$ cd nodemailer
 
-### start
+# Install Node module
+$ npm install
+$ yarn install
 
-- node index.js
+# Start
+$ node index.js
+
+# The Code will run in port 4000
+$ localhost:4000 
+
+```
+
+
+---
 
 # Steps to Generate an App Password
 
